@@ -1,3 +1,26 @@
+HOSPITAL MANAGEMENT SYSTEM-
+
+GROUP-9
+
+ NAME--  -------------------------------- ID
+
+1-SHAKIL, MD SHAMIM -----------------------18-37431-
+
+2-Murshid,Sarafat   ------------------------19-40014-1
+
+3-Mohammad Abir    -------------------------19-39602-1
+
+
+
+
+
+
+
+
+
+
+
+
 USER-
  -Admin
  -Doctor
