@@ -1,0 +1,91 @@
+USER-
+ -Admin
+ -Doctor
+ -Patient
+ -Receptionist
+
+ADMIN-
+
+1- Can Login to the system
+2- Can manipulate their profile information
+3- Verify registration request of doctors and patients.
+4- Manipulate the doctor/patient profile objectives.
+5- Can watch the registered patient List
+6- Can watch the registered doctor List
+7- Can watch the appointment List
+8- Can Modify the registered Doctor&Patient List (Update/Delete)
+
+DOCTOR-
+
+ 1-Can Login to the system 
+ 2-Can modify his/her profile after getting approval from Admin
+ 3-Can Add time slot or remove time slot.
+ 4-Can watch the appointment status.
+ 5-Can suggest some tests to the appointed patients if needed 
+ 6-Can see patient disease history
+ 7-Can update patient disease history
+
+
+PATIENT-
+
+1- Can Login to the system Can watch the appointment status.
+2- Can manipulate their profile information
+3- Can see their treatment history (If they used our web service previously)
+4- Can search doctors
+5- Can make an appointment.
+6- Can payemnt
+7- Can see the full approved doctor list 
+8- Can see his/her prescription any time after the Doctor’s meet up
+
+
+RECEPTIONIST-
+
+1- Can Login to the system.
+2- Can manipulate their profile information.
+3- Can admit patient.
+4- Maintain patient payment information.
+5- Maintain all doctors time schedule.
+6- All room information.
+7- Patient request
+
+
+ form-common
+
+1-Registration-(name,phone,address,email,password)
+2-log in-(id,email,password)
+
+
+admin-
+1- profile information(add,edit,delete)
+2- verify registration(doctors,patients)
+3- patient list
+4-doctor list
+5-appointment
+
+doctor-
+
+1-log in 
+2- profile information
+3-patient list
+4-appotmennt history
+5-patient disease history
+
+patient-
+
+1--login
+2--patient profile
+3--doctor medicine
+4--make appointment
+5--view appointment
+6-history
+
+Receptionist-
+
+1-login
+2-profile information
+3-patient registration
+4-patient request
+
+
+
+
